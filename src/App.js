@@ -1,10 +1,10 @@
 import "./App.css";
-import Pizza from "./components/pizza";
+import Header from "./components/Header";
 
 function App() {
   return (
     <div className="App">
-      <Pizza />
+      <Header />
     </div>
   );
 }
